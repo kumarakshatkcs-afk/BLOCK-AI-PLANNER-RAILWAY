@@ -1,0 +1,8 @@
+{
+  "name": "Remix Remix Remix Remix Remix Railway AI Block Planner",
+  "description": "AI-Powered Automated Block Planning to Maximise Asset Availability for Train Operations on Indian Railways.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
